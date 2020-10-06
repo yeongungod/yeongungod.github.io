@@ -37,15 +37,40 @@
   <body>
     <div class="overflow-wrap">
       <!-- HOME -->
-        
+     <div class="modal-wrap flex">
+        <div class="mask"></div>
+        <div class="modal" id="modal">
+          <div class="carousel-wrap">
+            <div class="window">
+              <div id="carousel">
+                <div class="slide"></div>
+                <div class="slide"></div>
+                <div class="slide"></div>
+              </div>
+              <i class="mdi mdi-chevron-left" id="prev"></i>
+              <i class="mdi mdi-chevron-right" id="next"></i>
+            </div>
+          </div>
+          <div class="info-box">
+            <div class="title"></div>
+            <div class="tag"></div>
+            <div class="detail"></div>
+            <a href="#" target="_blank"
+              ><div class="button">
+                <i class="mdi mdi-open-in-new"></i>VIEW SITE
+              </div></a
+            >
+           </div>
+          <i class="close mdi mdi-close"></i>
+        </div>
+      </div>
+              
       <section id="home" class="flex height-fix">
         <div class="flex">
           <div class="text">
           <span class="highlight">yeongungod</span>
             <br />
-          <span class="sdesigner">Sound Designer</span>
-          </div>
-
+              
           <nav class="flex">
             <div class="link-wrap">
               <div class="active page-link" dest="home">home</div>
