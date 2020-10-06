@@ -1,6 +1,23 @@
-<h1 align="center">Portfolio Website</h1>
-<h2 align="center">Dina Blaszczak | Front-End Developer </h2>
-<p align="center">Live preview: <a href="https://themalni.github.io/portfolio">Portfolio Website</a></p><br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/12295765/43483406-dde55e8a-950b-11e8-8841-d616ee0c0551.jpg" width="550" alt="Portfolio Website">
-</p>
+OPTIMIZE: 
+Pause Canvas when out of view
+Loading Animation
+Optimize image sizes
+Higher quality images for portoflio (allows for 100vw on smaller sizes)
+
+CLEAN UP:
+Spell Check
+Refactor CSS
+Refactor HTML
+Refactor JS - simplify modal fill function
+Browser Retest
+
+MAYBE:
+mysterious carousel bug
+Animate 'back-to-top' arrow on hover
+Add elasticity to portfolio bar
+Wipe button animation - http://tympanus.net/Development/ButtonStylesInspiration/
+Gifs for powur homepage and neversurrender preview?
+Add humor
+DL my resume Link
+Navbar border hue animation
+Make Canvas subtly interactive
