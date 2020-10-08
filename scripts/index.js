@@ -188,7 +188,7 @@ $(function() {
       method: 'POST',
       data: { message: $('form').serialize() },
       dataType: 'json',
-	  accept-charset="euc-kr"
+	  accept-charset="UTF-8"
     }).done(function(response) {
       $('#success').addClass('expand');
       $('#contact-form')
