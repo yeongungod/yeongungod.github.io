@@ -1,10 +1,10 @@
-$primary: #04c2c9;
-$primary-dark: #00a1a7;
-$primary-darker: #036367;
-$primary-darkest: #1b242f;
-$secondary: #e31b6d;
-$secondary-light: #fb1f79;
-$secondary-dark: #c51675;
+$primary: #87ceeb;
+$primary-dark: #48b4e0;
+$primary-darker: #229aca;
+$primary-darkest: #1b7ba2;
+$secondary: #dda89c;
+$secondary-light: #f5e6e2;
+$secondary-dark: #ca7764;
 
 @mixin pos(
   $pos: absolute,
@@ -1061,7 +1061,7 @@ footer {
     opacity: 0.6;
 
     .highlight {
-      color: $secondary;
+      color: $primary;
       font-family: 'Open Sans';
     }
   }
