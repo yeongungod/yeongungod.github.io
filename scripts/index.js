@@ -187,8 +187,7 @@ $(function() {
       url: 'https://formspree.io/f/mbjpdobn',
       method: 'POST',
       data: { message: $('form').serialize() },
-      dataType: 'json',
-	  accept-charset="UTF-8"
+      dataType: 'json'
     }).done(function(response) {
       $('#success').addClass('expand');
       $('#contact-form')
