@@ -799,7 +799,7 @@ section:nth-of-type(4) .blog-wrap {
   width: 100%;
 }
 section:nth-of-type(4) .blog-wrap #thumb-1 {
-  background: url("../img/blog-1.jpg") center center/cover;
+  background: url("../img/blog-1.png") center center/cover;
 }
 section:nth-of-type(4) .blog-wrap #thumb-2 {
   background: url("../img/blog-2.jpg") center center/cover;
